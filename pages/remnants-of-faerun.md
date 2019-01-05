@@ -70,6 +70,18 @@ TODO
 
 ## Spire Services & Mechanics
 
+### Subjects:
+* Linguistics
+* Astrology
+* Physics
+* History
+* Creatures (Select a type)
+* Geography
+* Biology
+* Herbology
+* Economics
+* Politics
+
 ### Studies:
 When your character dedicates a day to studies, they may choose a single subject on the skills in your character sheet. Only one skill type can be studied each week, while that skill may be studied for more than a single day. Each day you study earns a point towards that skill. At 5 points, you can attempt a d20 roll, and on a 19 or 20, you gain a +1 in Misc. Bonus to that skill.  Studies cannot take place during a long rest where you are recovering Hit Points or Spell slots Acrobatics and Athletics are not viable skills to study in this matter. They require use of the Sparring Grounds.
 
