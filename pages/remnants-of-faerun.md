@@ -70,47 +70,49 @@ TODO
 
 ## Spire Services & Mechanics
 
-
 ### Studies:
-When your character dedicates a day to studies, they can choose a subject to study based on the skills in your character sheet. One skill type can be studied per week. Each day you study earns a point towards that skill. At 5 points, you can attempt a d20 roll, and on a 19 or 20, you gain a +1 in Misc. Bonus to that skill.  Studies cannot take place during a long rest where you are recovering Hit Points or Spell slots Acrobatics and Athletics are not viable skills to study in this matter. They require use of the Sparring Grounds.
+When your character dedicates a day to studies, they may choose a single subject on the skills in your character sheet. Only one skill type can be studied each week, while that skill may be studied for more than a single day. Each day you study earns a point towards that skill. At 5 points, you can attempt a d20 roll, and on a 19 or 20, you gain a +1 in Misc. Bonus to that skill.  Studies cannot take place during a long rest where you are recovering Hit Points or Spell slots Acrobatics and Athletics are not viable skills to study in this matter. They require use of the Sparring Grounds.
 
 ### Tests:
-At the end of a month, (30 days), you have a test held at The Spire against all of your skills. You will attempt a roll with each skill and your collective results determine your grades. However, you must also get at least passing with more than half of your skills (10 of them).
+At the end of a month, (30 days), students have a test held at The Spire to measure the performance of each of your skills. You will attempt a roll with each skill, and your collective results determine your grades. However, you must also get at least passing with more than half of your skills (10 of them).
 
-DC	Grade
-<10	F
-~10	D
-~13	C
-~18	B
-~22	A
+| DC   | Grade |
+|------|-------|
+| <10  | F     |
+| ~10  | D     |
+| ~13  | C     |
+| ~18  | B     |
+| ~22  | A     |
 
 Your monthly grades determine if you gain any points to spend around for school services and perhaps even a discount on your tuition.
 
 All of your grades are tallied up into an average which determines your outcome.
 
-F~Owe an extra 200 gold or 2 points for tuition
-D~Owe an extra 100 gold or 1 point for tuition
-C~Nothing happens
-B~Gain 2 points
-A~Gain 3 points 
+| Grade | Outcome                                       |
+|-------|-----------------------------------------------|
+| F     | Owe an extra 200 gold or 2 points for tuition |
+| D     | Owe an extra 100 gold or 1 point for tuition  |
+| C     | Nothing happens                               |
+| B     | Gain 2 points                                 |
+| A     | Gain 3 points                                 |
 
 ### Artificer:
-The artificer’s services are up for students now. Every new graduate was allowed a maximum of 2 items to be improved as a graduation gift. Any further improvements from now on will require points and gold. Every 100 gold that your improvement will cost is how many points it will cost. It is normally rounded up for in between amounts, but the Artificers have been known to allow a little haggling.
+The artificer’s services are up for graduated students. Every new graduate is allowed a maximum of 2 items to be improved as a graduation gift. Any further improvements require points or gold. Each point is the equivalent of 100 gold when it comes to enchantments. Prices are normally rounded up for uneven amounts, but the Artificers have been known to allow a smidge of haggling.
 
 ### Quartermaster:
-The Quartermaster can get his hands on anything and everything it seems, he just needs the time he claims. From weapons, armor, materials, and equipment, he will do all he can to find it. A request from the quartermaster costs 1 point if he doesn’t already have it and he must find it. And of course, the cost of the item +5 gold pieces.
+The Quartermaster can get his hands on anything and everything; "I just need the time", he claims. From weapons, armor, materials, and equipment, he will do all he can to find it. A request from the quartermaster costs 1 point, provided he doesn’t already have what you seek. The cost of your quarry is its normal price supplemented with 5 extra gold pieces.
 
 ### Library:
-The Library provides an excellent place to study and explore for information of the land. There are however a collection of exclusive texts and forbidden tombs as well. The Spire however, allows glimpses at the exclusive texts for a price. For 1 point, a student may, with supervision, read and choose 1 exclusive text in the field of a skill for a day. An exclusive text takes 3 days to finish, or 2 if you have proficiency in linguistics. When you finish reading a text, your next Studies roll you perform to attempt for a Misc. bonus will have an increased range of 14-20 instead of the normal 19-20 until you succeed at it. 
+The Library provides an excellent place to study and explore for information of the land. The Spire also has exclusive texts, requiring a fee in exchange for a chance to acquire some of their knowledge. For 1 point, a student may, with supervision, read and choose 1 exclusive text in the field of a skill for a day. An exclusive text takes 3 days to finish, or 2 if you have proficiency in linguistics. When you finish reading a text, your next Studies roll you perform to attempt for a Misc. bonus will have an increased range of 14-20 instead of the normal 19-20 until you succeed at it. 
 
 ### Harbor:
-Students now have the option to store vessels in the harbor at the cost of 1 point per month. Each student may only store 1 vessel and the vessel must fit within the docks parameters (25’ across max.).
+Students now have the option to store vessels in the harbor at the cost of 1 point per month. Each student may only store 1 vessel at a time, and said vessel must fit within the dock's parameters (25’ across maximum).
 
 ### Sparring Grounds:
-The sparring grounds is where one goes to train their more physical skills (Acrobatics, and Athletics). Additionally, you can coordinate to have team spars with other classmates here. Wagers of points or gold can be made here if you can convince them and of course, they are available.
+The Sparring Grounds is where one goes to train their more physical skills (Acrobatics and Athletics). Additionally, you can coordinate to have team spars with other classmates at this location. Wagers of points or gold can be made if you can convince your opponents to place a bet, provided you have such currency to wager.
 
 ### Bridgetown:
-Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take up jobs for them for the day and earn some gold. You roll a d20 with a DC of 20 - (# of skills proficient in) to try and find a job to take in an area you are proficient in. this will result in higher pay. [Ex: if you are proficient in 4 skills, your DC is 16]. If you take on a job you are not proficient in, you will earn 10+1d10 gold. If you are proficient in the job, you will earn 10+1d20 gold.
+Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you take on a job you are not proficient in, you will earn 10+1d10 gold. If you are proficient in the job, you will earn 10+1d20 gold.
 
 ### Laboratory:
-Students who are proficient in Biology or Herbalogy can use the laboratory to use ingredients they have to make potions or medicines. Otherwise services of the Lab can be purchased. They usually have limited supplies, and occasionally will put in requests to The Spire to pick up ingredients.
+Students who are proficient in Biology or Herbology may use the laboratory to expend their ingredients in order to make potions or medicine. If you do not have the means or ingredients, services of the Lab may be purchased from the Laboratory as well. Supplies are often limited, so the Laboratory will sometimes send requests to The Spire in order to replenish their stock.
