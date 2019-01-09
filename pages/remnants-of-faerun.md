@@ -60,7 +60,7 @@ Of course there are normal laws of not killing or stealing, but those are more l
 
 * Materials and property of The Spire is not to leave The Spire without properly checking it out with the Clerk first.
 
-* Tuition must be paid at the top of the month, or services be made up in its stead. (300gp ) Spire Credits towards tuition count as 50 gold
+* Tuition must be paid at the top of the month, or services be made up in its stead. (300gp ) Spire Credits towards tuition count as 50 gold.
 
 ---
 
@@ -139,7 +139,7 @@ The Library provides an excellent place to study and explore for information of 
 Students now have the option to store vessels in the harbor at the cost of 1 point per month. Each student may only store 1 vessel at a time, and said vessel must fit within the dock's parameters (25’ across maximum).
 
 ### Sparring Grounds:
-The Sparring Grounds is where one goes to train their more physical skills (Acrobatics and Athletics). Additionally, you can coordinate to have team spars with other classmates at this location. Wagers of points or gold can be made if you can convince your opponents to place a bet, provided you have such currency to wager.
+The Sparring Grounds is where one goes to train their more physical skills (Acrobatics and Athletics). Additionally, you can coordinate to have team spars with other classmates at this location. Wagers of credits or gold can be made if you can convince your opponents to place a bet, provided you have such currency to wager. Credits can only be exchanged between students with authority of an eagle to complete the transaction.
 
 ### Bridgetown:
 Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you take on a job you are not proficient in, you will earn 10+1d10 gold. If you are proficient in the job, you will earn 20+1d20 gold.
