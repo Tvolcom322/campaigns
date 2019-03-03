@@ -70,31 +70,74 @@ TODO
 
 ## Spire Services & Mechanics
 
-### Subjects:
+### Specialty Subjects:
 * Linguistics
 * Astrology
 * Physics
-* History
+* Anthropology
 * Creatures (Select a type)
 * Geography
 * Biology
 * Herbology
 * Economics
 * Politics
+* Mysteries of Arcana
+* Beings of Religion
+* Battle Tactics
 
 ### Studies:
-When your character dedicates a day to studies, they may choose a single subject on the skills in your character sheet. Only one skill type can be studied each week, while that skill may be studied for more than a single day. Each day you study earns a point towards that skill. At 5 points, you can attempt a d20 roll, and on a 19 or 20, you gain a +1 in Misc. Bonus to that skill.  Studies cannot take place during a long rest where you are recovering Hit Points or Spell slots Acrobatics and Athletics are not viable skills to study in this matter. They require use of the Sparring Grounds.
+When your character dedicates time to studies, they may choose a subject on the skills in your character sheet or of a specialty subject by the classes offered from the school. One academic and one physical skill can be trained or studied at a time. Each segment of time you study earns a point towards that skill or subject. You can only study one physical and one academic subject per day. At 5 points, you can attempt a d20 roll, and on a 18-20, you gain a permanent +1 misc. bonus to that skill.  Studies cannot take place during a long rest where you are recovering hit points or spell slots. While at The Spire, studies take place in the library using their resources, which never depleet. When outside The Spire, you require books to study. Books last for 5 instances of studying for whatever subject it is in.
+
+All students have a class that they naturally excelled in during their fletchling days, and carries on into their time as a Sparrow. If you gain a +2 misc. bonus to another specialty subject then you gain proficiency in that subject as well.
+
+Academic skills and specialty subjects:
+* Animal Handling
+* Arcana
+* Deception
+* History
+* Insight
+* Intimidation
+* Investigation
+* Medicine
+* Nature
+* Perception
+* Performance
+* Persuasion
+* Religion
+* Survival
+* Linguistics
+* Astrology
+* Physics
+* Anthropology
+* Creatures (Select a type)
+* Geography
+* Biology
+* Herbology
+* Economics
+* Politics
+* Mysteries of Arcana
+* Beings of Religion
+
+
+
+Physical skills and specialty subjects:
+* Acrobatics
+* Athletics
+* Sleight of Hand
+* Stealth
+* Battle Tactics
+
 
 ### Tests:
-At the end of a month, (30 days), students have a test held at The Spire to measure the performance of each of your skills. You will attempt a roll with each skill, and your collective results determine your grades. However, you must also get at least passing with more than half of your skills (10 of them).
+At the end of a month, (30 days), students have a test held at The Spire to measure the performance of each of your skills. You will attempt a roll with each skill, and your collective results determine your grades. However, you must also get at least passing with more than half of your skills (10 of them). If you are proficient in a specialty subject, you gain an additional roll per specialty subject that will replace your lowest roll(s).
 
-| DC   | Grade |
-|------|-------|
-| <10  | F     |
-| ~10  | D     |
-| ~13  | C     |
-| ~18  | B     |
-| ~22  | A     |
+|  DC   | Grade |
+|-------|-------|
+| <10   | F     |
+| 10-12 | D     |
+| 13-16 | C     |
+| 17-21 | B     |
+| >21   | A     |
 
 Your monthly grades determine if you gain any points to spend around for school services and perhaps even a discount on your tuition.
 
@@ -108,23 +151,40 @@ All of your grades are tallied up into an average which determines your outcome.
 | B     | Gain 2 points                                 |
 | A     | Gain 3 points                                 |
 
+### Classmates:
+By spending time with classmates, you can make them more willing to lend you a hand. Whenever you go on a mission that isn't delegated to you by your Hawks, you can ask classmates to come with you for assistance provided they are available. When you ask a classmate, you need to have at least spent some time with them outside of school for them to consider it. Hanging out once allows the option to roll a d20 and on a 20, they will assis you on your endeavor. Every 2 times you hang out with a person, you decrease the DC by 1. Standings with classmates is on a personal basis, but you can spend time together in groups.
+
 ### Artificer:
 The artificer’s services are up for graduated students. Every new graduate is allowed a maximum of 2 items to be improved as a graduation gift. Any further improvements require points or gold. Each point is the equivalent of 100 gold when it comes to enchantments. Prices are normally rounded up for uneven amounts, but the Artificers have been known to allow a smidge of haggling.
 
 ### Quartermaster:
-The Quartermaster can get his hands on anything and everything; "I just need the time", he claims. From weapons, armor, materials, and equipment, he will do all he can to find it. A request from the quartermaster costs 1 point, provided he doesn’t already have what you seek. The cost of your quarry is its normal price supplemented with 5 extra gold pieces.
+The Quartermaster can get his hands on anything and everything; "I just need the time", he claims. From weapons, armor, materials, and equipment, he will do all he can to find it. A special request from the quartermaster costs 1 point, provided he doesn’t already have what you seek. A special request would be for an item that is not found in the Player's Handbook. The item you request will still have a price associated with it in addition to the point paid to find such an item. Don't ask the impossible though, you need to give a lead on where he can find the item if he himself doesn't know where to begin looking.
 
 ### Library:
-The Library provides an excellent place to study and explore for information of the land. The Spire also has exclusive texts, requiring a fee in exchange for a chance to acquire some of their knowledge. For 1 point, a student may, with supervision, read and choose 1 exclusive text in the field of a skill for a day. An exclusive text takes 3 days to finish, or 2 if you have proficiency in linguistics. When you finish reading a text, your next Studies roll you perform to attempt for a Misc. bonus will have an increased range of 14-20 instead of the normal 19-20 until you succeed at it. 
+The Library provides an excellent place to study and explore for information of the land. The Spire also has exclusive texts, requiring a fee in exchange for a chance to acquire some of their knowledge. For 1 point, a student may, with supervision, read and choose 1 exclusive text in the field of a skill. 1 point lasts for a month worth of access. An exclusive text takes 3 days to finish, or 2 if you have proficiency in the subject of linguistics. When you finish reading a text, your next Studies roll you perform to attempt for a Misc. bonus will have an increased range of 14-20 instead of the normal 18-20 until you succeed at a roll. 
+
+You can also check out books from the Library, but they have a due date of 2 weeks. Books from the library are special in that they last for 10 instances of study instead of 5 like other books. Additionally, fully finishing a rented book grants an additional study point upon completion. You can only check out books when going on a mission assigned by The Spire to keep the texts out of unnecessary risk. Overdue books acrue a late fee of 5 gold per day they are late. If you are unable to return the book, your tuition for the next month increases by 100 gold.
 
 ### Harbor:
-Students now have the option to store vessels in the harbor at the cost of 1 point per month. Each student may only store 1 vessel at a time, and said vessel must fit within the dock's parameters (25’ across maximum).
+Students now have the option to store vessels in the harbor at the cost of 1 point per month. Each student may only store 1 vessel at a time, and said vessel must fit within the dock's parameters (25’ across maximum). Additionally you can fish at the docks if you have a rod, bait, and tackle. While fishing at the docks you will have 3 chances to roll a d20 and guess your result. If within 1 of your guess, you catch a small fish that sells for 2 gold. If you match your guess, you get a big catch that sells for 5 gold. If you are an Outlander, Pirate, Sailor, or Swashbuckler, you gold yield for small fish increases by 1d4 and 1d6 for big catches.
 
 ### Sparring Grounds:
-The Sparring Grounds is where one goes to train their more physical skills (Acrobatics and Athletics). Additionally, you can coordinate to have team spars with other classmates at this location. Wagers of points or gold can be made if you can convince your opponents to place a bet, provided you have such currency to wager.
+The Sparring Grounds is where one goes to train their more physical skills. Additionally, you can coordinate to have team spars with other classmates at this location. Wagers of points or gold can be made if you can convince your opponents to place a bet, provided you have such currency to wager.
 
 ### Bridgetown:
-Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you take on a job you are not proficient in, you will earn 10+1d10 gold. If you are proficient in the job, you will earn 10+1d20 gold.
+Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you find a job you are proficient in, you will earn 5+1d6 gold. You can only work in bridgetown twice in a week. If you are unsuccessful in finding a job, your time for that portion of the day is wasted.
+
+You can also look for books in Bridgetown, but it may be tough to find what you need. You will need to roll a d4 and on a 4, you find a book. The type of book you find will be based on what the DM rolls.
+
+### Gambling:
+There are certain areas of Bridgetown that you can go to if you know the right people to get in on some games of chance. Attending these gambling houses requires a successful Sneak check of DC 15 to not be noticed entering. Once inside you can choose to partake in cards or dice. All gambling is a double or nothing wager with a minimum of 5 gold and a maximum of 20. All wagers are declared before games begin
+
+In cards, you will be playing blackjack against the house and see who can get closest to 21 without going over. You will each roll 3 d10 and have 2 oppurtunities to reroll the current lowest number of your rolls. The player must choose their options of rerolls before the house rolls their initial dice. The house must stop once they hit 17 however. If you have proficiency in cards, you get 3 rerolls instead of 2.
+
+In dice, you will be playing a game of craps. You will be playing as the shooter. As shooter, you will roll 2d6 and on a 7, or 11, you win. On a 2, 3, or 12, you lose. If you get a different number besides the aforementioned numbers, that becomes your target number. You will then keep rolling the dice until you get the target number again, in which case you win, or if you roll a 7, in which case you lose. If you have proficiency in dice, then you can choose a second additional number as a target number when rolling.
+
+### Culinary Indulgence:
+Exotic food at the market is always abound with how popular a stop Bridgetown is for the Broken Sea. By scouring the markets and partaking in unique dishes, you can give your body the edge in your next encounter. By spending time in the market you can roll a d20. On a 10, you gain 1d4+1 temp HP. On a 15, you gain 1d6+1 temporary hit points. And on a 20, you gain 1d8+1 temporary hit points. While you can visit the market multiple times, boosts do not stack and the most recent successful visit dictates your temporary hit points. 
 
 ### Laboratory:
 Students who are proficient in Biology or Herbology may use the laboratory to expend their ingredients in order to make potions or medicine. If you do not have the means or ingredients, services of the Lab may be purchased from the Laboratory as well. Supplies are often limited, so the Laboratory will sometimes send requests to The Spire in order to replenish their stock.
