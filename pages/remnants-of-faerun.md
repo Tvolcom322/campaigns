@@ -22,12 +22,12 @@ Soon, all the Monarchs had at least one God or Goddess on their side, as they ey
 ### The Spire
 
 #### Background:
-The Spire is a school for learning magic and martial skills to better be suited to serving the people or improving the practices. It is very exclusive for entering, as it requires the approval of both headmasters who seek talent, potential, and intrigue. It is a tall tower for its main building, with a large yard outside of it called the Court, and a centered circular area outside the front of The Spire floored with tan bricks called the Yard. Its front gate connects to the main road of Bridgetown, a business center that revels in being connected to the Spire, as they provide services to The Spire in exchange for assistance with personal requests from the students. All of this rests above a bay of ocean on a column of rock connected only by the arch of Bridgetown. There are more columns with smaller buildings that connects to the Spire, but this houses residential and recreational buildings for students and visitors. The Spire consists of where classes are held. It is an 7 story tall spire, and the column it rests on is 220 ft above water level.
+The Spire is a school for learning magic and martial skills to better be suited to serving the people or improving the practices. It is very exclusive for entering, as it requires the approval of both headmasters who seek talent, potential, and intrigue. It is a tall tower for its main building, with a large yard outside of it called the Court, and a centered circular area outside the front of The Spire floored with tan bricks called the Yard. Its front gate connects to the main road of Bridgetown, a business center that revels in being connected to the Spire, as they provide services to The Spire in exchange for assistance with personal requests from the students. All of this rests above a bay of ocean on a column of rock connected only by the arch of Bridgetown. There are more columns with smaller buildings that connects to the Spire, but this houses residential and recreational buildings for students and visitors. The Spire consists of where classes are held. It is an 7 story tall spire, and the column it rests on is 300 ft above water level.
 
 #### Hierarchy:
 Hierarchy of the residents rank in order of Fletchling, Sparrow, Hawk, Eagle, Headmaster.
 
-* Fletchling is a new tryout who must pass their final evaluation after 3 years study or be asked to leave the university
+* Fletchling is a new tryout who must pass their final evaluation after 3 years study or be asked to leave the university and return to retry in a year, but only needing to repeat the last year they did instead of all 3.
 
 * Sparrows have passed their exams and are considered full student and or graduates of The Spire. Them and any level above them are considered graduates of The Spire. They are recognized by their Bronze rings on their right Ring finger.
 
@@ -37,7 +37,7 @@ Hierarchy of the residents rank in order of Fletchling, Sparrow, Hawk, Eagle, He
 
 * Headmasters are the top of the food-chain of the school. They have final say on any matter they see the need to weigh in on and spend their days observing students and counseling with Hawks and Eagles on curriculum. The are the public speakers for The Spire when needs arise, and handle their unique political placement of a land within Presidio but outside the reach of Queen Hauvreigha. They wear one of each ring along with a Black ring that is on their thumb. Ido wears his on his left, and Iro on his right.
 
-There are other staff as well, who work at the spire outside any sort of academic purpose. A quartermaster, a cleric, a clerk, 2 cooks, 3 groundskeepers, a librarian, and a trader. Additionally at times new faces can be seen for a month or 2 at a time assisting the headmasters as errand runners but they never stay on school grounds.
+There are other staff as well, who work at the spire outside any sort of academic purpose. A quartermaster, a cleric, a clerk, 2 cooks, 3 groundskeepers, a librarian, and a harbormaster. Each of these people hire off and on as the season demands of course. sometimes students, sometimes from Bridgetown, and sometimes as a favor to somebody coming to seek experience from them and they were able to convince them to be given a shot. Additionally at times new faces can be seen for a month or 2 at a time assisting the headmasters as errand runners but they never stay on school grounds.
 
 There are plenty of laws for grounds of The Spire, but some are unique to get you expelled. 
 Of course there are normal laws of not killing or stealing, but those are more laws of the land that are just upheld.
@@ -51,6 +51,8 @@ Of course there are normal laws of not killing or stealing, but those are more l
 * The Undergrounds are strictly forbidden
 
 * You cannot harm or blemish the school grounds or its foundation(Expulsion from this requires large damage)
+
+* You cannot tamper or touch any constructs, installations, or non-student related systems that The Spire has around its campus.
 
 * You may not bring great shame or dishonor to the name of The Spire through your representation to others outside the school to a point the Headmasters must get involved.
 
@@ -131,13 +133,13 @@ Physical skills and specialty subjects:
 ### Tests:
 At the end of a month, (30 days), students have a test held at The Spire to measure the performance of each of your skills. You will attempt a roll with each skill, and your collective results determine your grades. However, you must also get at least passing with more than half of your skills (10 of them). If you are proficient in a specialty subject, you gain an additional roll per specialty subject that will replace your lowest roll(s).
 
-|  DC   | Grade |
+|   DC  | Grade |
 |-------|-------|
-| <10   | F     |
-| 10-12 | D     |
-| 13-16 | C     |
-| 17-21 | B     |
-| >21   | A     |
+| <7    | F     |
+| 7-10  | D     |
+| 11-14 | C     |
+| 15-19 | B     |
+| >19   | A     |
 
 Your monthly grades determine if you gain any points to spend around for school services and perhaps even a discount on your tuition.
 
@@ -169,7 +171,7 @@ You can also check out books from the Library, but they have a due date of 2 wee
 Students now have the option to store vessels in the harbor at the cost of 1 point per month. Each student may only store 1 vessel at a time, and said vessel must fit within the dock's parameters (25’ across maximum). Additionally you can fish at the docks if you have a rod, bait, and tackle. While fishing at the docks you will have 3 chances to roll a d20 and guess your result. If within 1 of your guess, you catch a small fish that sells for 2 gold. If you match your guess, you get a big catch that sells for 5 gold. If you are an Outlander, Pirate, Sailor, or Swashbuckler, you gold yield for small fish increases by 1d4 and 1d6 for big catches.
 
 ### Sparring Grounds:
-The Sparring Grounds is where one goes to train their more physical skills. Additionally, you can coordinate to have team spars with other classmates at this location. Wagers of points or gold can be made if you can convince your opponents to place a bet, provided you have such currency to wager.
+The Sparring Grounds is where one goes to train their more physical skills. Additionally, you can coordinate to have team spars with other classmates at this location. Wagers of points or gold can be made if you can convince your opponents to place a bet, provided you have such currency to wager. Points can only be exchanged between students with authority of an eagle to complete the transaction.
 
 ### Bridgetown:
 Lots of the citizens of Bridgetown depend on students as an occasional workforce. You can take jobs from them for the day and earn gold as a reward. You may roll a d20, with a DC of 20 minus the number of skills your are proficient in, to try and find yourself a job. [Ex: if you are proficient in 4 skills, your DC is 16]. If you find a job you are proficient in, you will earn 5+1d6 gold. You can only work in bridgetown twice in a week. If you are unsuccessful in finding a job, your time for that portion of the day is wasted.
@@ -188,3 +190,34 @@ Exotic food at the market is always abound with how popular a stop Bridgetown is
 
 ### Laboratory:
 Students who are proficient in Biology or Herbology may use the laboratory to expend their ingredients in order to make potions or medicine. If you do not have the means or ingredients, services of the Lab may be purchased from the Laboratory as well. Supplies are often limited, so the Laboratory will sometimes send requests to The Spire in order to replenish their stock.
+
+### Crafts and Talents:
+Students who have other worldy experience have oppurtunities to make a commercial name for themselves in Bridgetown. If you are proficient in certain tool kits, you can use that expertise to create crafts or provide services to others with the hope of a profit. You do need to lease a booth on Marketstreet for 10+1d10 gold (Fluctuating availability of spaces). Once you've leased a booth you will roll a d20 and get at least a DC 9 to break even. Each tool kit has a different degree of difficulty associated with it that determines how hard it is to turn a profit. This takes into account start-up costs of materials and or work done. Rolling a DC 10 - (listed DC) will net you your money back on the booth and the profit amount listed, but rolling above the listed DC will do the same but double your profit +1d4. 
+
+* Alchemist's supplies: Crafting of runes (DC 18, +6 profit)
+* Brewer's supplies: Brewing of drinks (DC 17, +5 profit)
+* Calligrapher's supplies: Writing letters for people (DC 15, +3 profit)
+* Carpenter's tools: Simple toys (DC 16, +4 profit)
+* Cobbler's tools: Shoe shining and mending (DC 15, +3 profit)
+* Cook's utensils: Quick and simple meals (DC 16, +4 profit)
+* Glassblower's tools: (Wares must be premade at The Spire.) Decorations (DC 17, +5 profit)
+* Jeweler's tools: Adjustments to accessories (DC 16, +4 profit)
+* Leatherworker's tools: Fixing of lacing for armor and more (DC 15, +3 profit)
+* Mason's tools: Get hired to adjust a person's home (DC 17, +5 profit)
+* Painter's supplies: Sell artwork (DC 18, +6 profit)
+* Potter's tools: Sell pottery (DC 16, +4 profit)
+* Smith's tools: Sharpen tools and weapons (DC 16, +4 profit)
+* Tinker's tools: Fixing odds and ends of adventurer's (DC 15, +3 profit)
+* Weaver's tools: Selling baskets and hats (DC 15, +3 profit)
+* Woodcarver's tools: Selling toys, instruments, accessories, knick knacks (DC 16, +4 profit)
+* Disguise Kit: Selling costumes (DC 17, +5 profit)
+* Forgery kit: Crafting pre-made stationary (DC 15, +3 profit)
+* Gaming Set: Full competition games, no chance ones (DC 15, +3 profit)
+* Herbalism kit: Creating natural medicine (DC 18, +6 profit)
+* Musical Instrument: Fixing instruments and selling reeds and strings (DC 15, +3 profit)
+* Navigator's tools: Navigation assistance by sea or land (DC 16, +4 profit)
+* Poisoner's kit: Selling antidotes for common poisons and venoms (DC 16, +4 profit)
+* Thieves tools: Crafting locks and duplicating keys (DC 16, +4 profit)
+
+### Good Night's Sleep:
+Sometimes the best thing to do is have a nice light meal, a warm drink, and head to sleep for the night a bit early. Doing so the day before an adventure will net you +1 on initiative rolls and +1 against Wisdom saving throws for the first encounter of your next adventure.
